@@ -1,0 +1,4 @@
+# OpenTelemetry binaries
+mac/ocb
+linux/ocb
+generated/mz-otelcol/mz-otelcol
